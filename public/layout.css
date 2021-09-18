@@ -1,0 +1,14 @@
+header, footer{
+    color: white;
+    height: 60px;
+    width: 100%;
+}
+
+main{
+    margin: 60px auto 100px auto;
+    height: 100%;
+}
+header{
+    top:0px;
+}
+
